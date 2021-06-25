@@ -8,6 +8,17 @@ parent: BC Fitness Cafe
 ## Chrome Remote Desktop
 Chrome Remote Desktop is a great tool if you are in charge of IT, especially if you are not physically at BC Fitness. It's also fairly simple and easy to use, and if it's not already setup on one of the computers, it's very easy to get working.
 ### Usage & Logins
-Using the BC Fitness chrome account, login to chrome Remote Desktop [here](https://remotedesktop.google.com/access/). Once you're all logged in, you will also need the password to the machine to get in. For security reasons, however, this password will be provided on paper along with everything else in the logins & accounts handbook.
+Using the BC Fitness chrome account, login to chrome Remote Desktop [here](https://remotedesktop.google.com/access/). Once you're all logged in, you will also need the password to the machine to get in. For security reasons, however, this password will be provided on paper along with everything else in the security & logins handbook.
 
 Once you are connected to the computer, the process is fairly straightforward.
+
+## BC Server
+The BC Server is a rack Synology server with upwards of 48TB of storage. As such, the server has quite a bit of storage allocated to security footage, but also some storage allocated to usage by the BC Fitness + Cafe Staff.
+### Logins
+Since not very many people use the Synology server, logins have not yet been distributed. However, they will be put into the security & logins handbook once that has been created.
+### Rules & Usage
+Each user will be provided a certain amount of storage which will be determined at a later date. In terms of rules, just be responsible and don't use the server as a replacement for Google Drive or some sort of storage for all of your GoPro video. The server is really meant for sharing data between co-workers, which includes anything related to BC Fitness + Cafe *and/or* GS Andiamo / Team California.
+## Security Cameras
+There are 8 security cameras inside BC Fitness + Cafe and 1 security camera facing the parking lot. For security reasons, this info will be kept in the security & logins handbook
+### Login & Wiring
+### FTP Server Setup

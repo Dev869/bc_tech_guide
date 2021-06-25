@@ -45,8 +45,14 @@ Since there are multiple KIKR trainers, make sure to select the trainer with the
 ### Bike Connection
 The same as any other sensor except when connecting to Zwift select the "controllable" option and make sure that you are connecting to the "KIKR Bike". This will automatically connect you to the bike and you should be all good to go.
 ## Other Sensors
+*Power meters, speed sensors, cadence, etc.*
 ### Power Meters
+Power meters connect the same way as any other sensor, except you select the **power** option as opposed to the **controllable** option. Note: *If you have a speed sensor, there is no need to have a power meter. If you do have a power meter, however, you will get far more accurate data transmitting to Zwift.*
 ### Cadence Meters
+Cadence meters will connect automatically if they are built in with your power meter, or you can simply select **cadence** in the Zwift connection menu (the same as any other sensor).
 ### Heartrate Monitors
+HR monitors connect the same as any other sensor, though you may need to get your heart rate up in order to determine which sensor on the list is yours. If there are no other heart rate sensors nearby, you should *only* see your heart rate sensor.
 ### Speed Sensors
+Speed sensors connect the same as any other sensor except you need to connect it as **speed**. Note: *If you already have a power meter connected, there is no need to use a speed sensor.*
 ### Steering Modules
+As of now the only steering module at BC Fitness + Cafe is integrated within the Wahoo KIKR Bike, which will connect to Zwift automatically upon connecting the bike itself. Note: The steering modules will do something during the special Zwift steering sections. More on that [here](https://support.wahoofitness.com/hc/en-us/articles/360019349600-KICKR-BIKE-and-Zwift-Steering-Everything-You-Need-to-Know).
