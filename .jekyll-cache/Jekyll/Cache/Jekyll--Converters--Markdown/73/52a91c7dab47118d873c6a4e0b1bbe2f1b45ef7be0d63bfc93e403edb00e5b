@@ -1,0 +1,19 @@
+I"Y<h1 id="it-maintenance">IT Maintenance</h1>
+<h2 id="chrome-remote-desktop">Chrome Remote Desktop</h2>
+<p>Chrome Remote Desktop is a great tool if you are in charge of IT, especially if you are not physically at BC Fitness. It’s also fairly simple and easy to use, and if it’s not already setup on one of the computers, it’s very easy to get working.</p>
+<h3 id="usage--logins">Usage &amp; Logins</h3>
+<p>Using the BC Fitness chrome account, login to chrome Remote Desktop <a href="https://remotedesktop.google.com/access/">here</a>. Once you’re all logged in, you will also need the password to the machine to get in. For security reasons, however, this password will be provided on paper along with everything else in the security &amp; logins handbook.</p>
+
+<p>Once you are connected to the computer, the process is fairly straightforward.</p>
+
+<h2 id="bc-server">BC Server</h2>
+<p>The BC Server is a rack Synology server with upwards of 48TB of storage. As such, the server has quite a bit of storage allocated to security footage, but also some storage allocated to usage by the BC Fitness + Cafe Staff.</p>
+<h3 id="logins">Logins</h3>
+<p>Since not very many people use the Synology server, logins have not yet been distributed. However, they will be put into the security &amp; logins handbook once that has been created.</p>
+<h3 id="rules--usage">Rules &amp; Usage</h3>
+<p>Each user will be provided a certain amount of storage which will be determined at a later date. In terms of rules, just be responsible and don’t use the server as a replacement for Google Drive or some sort of storage for all of your GoPro video. The server is really meant for sharing data between co-workers, which includes anything related to BC Fitness + Cafe <em>and/or</em> GS Andiamo / Team California.</p>
+<h2 id="security-cameras">Security Cameras</h2>
+<p>There are 8 security cameras inside BC Fitness + Cafe and 1 security camera facing the parking lot. For security reasons, this info will be kept in the security &amp; logins handbook</p>
+<h3 id="login--wiring">Login &amp; Wiring</h3>
+<h3 id="ftp-server-setup">FTP Server Setup</h3>
+:ET
