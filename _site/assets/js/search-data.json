@@ -1,93 +1,93 @@
 {"0": {
-    "doc": "Frames",
-    "title": "Frames",
-    "content": "# Frames ",
-    "url": "/bc_tech_guide/docs/gsandiamo/Frames/",
-    "relUrl": "/docs/gsandiamo/Frames/"
+    "doc": "bc.cafe",
+    "title": "bc.cafe",
+    "content": "# bc.cafe ## Login Username: Password: ",
+    "url": "/bc_tech_guide/docs/websites/bccafe/",
+    "relUrl": "/docs/websites/bccafe/"
   },"1": {
-    "doc": "Group Sets",
-    "title": "Group Sets",
-    "content": "# Group Sets ",
-    "url": "/bc_tech_guide/docs/gsandiamo/Group%20Sets/",
-    "relUrl": "/docs/gsandiamo/Group%20Sets/"
+    "doc": "bcfitness.com",
+    "title": "bcfitness.com",
+    "content": "# bcfitness.com ## Login Username: Password: ",
+    "url": "/bc_tech_guide/docs/websites/bcfitness/",
+    "relUrl": "/docs/websites/bcfitness/"
   },"2": {
+    "doc": "bcfitnesscafe.com",
+    "title": "bcfitnesscafe.com",
+    "content": "# bcfitnesscafe.com ## Login Username: Password: ",
+    "url": "/bc_tech_guide/docs/websites/bcfitnesscafe/",
+    "relUrl": "/docs/websites/bcfitnesscafe/"
+  },"3": {
     "doc": "Coffee Bar",
     "title": "Coffee Bar",
     "content": "# Coffee Bar ## Apple TV ### Airplay ### TV Audio ## Audio & Music ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/coffee-bar/",
     "relUrl": "/docs/bc_fitness_cafe/coffee-bar/"
-  },"3": {
+  },"4": {
+    "doc": "Equipment",
+    "title": "Equipment",
+    "content": "# Equipment ## Stands & Tools ## Asset Tiger ### Format of Input ### Checking Items in & out ## Wheels Placement ## Bikes Placement ## Work Tag System ",
+    "url": "/bc_tech_guide/docs/gsandiamo/equipment/",
+    "relUrl": "/docs/gsandiamo/equipment/"
+  },"5": {
     "doc": "General Computers & Wifi",
     "title": "General Computers & Wifi",
     "content": "# General Computers & Wifi ## Printer ## Wifi ## Router & Modem ### Spectrum Account ## Ethernet Cabling ### Port Switches ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/general-computers-wifi/",
     "relUrl": "/docs/bc_fitness_cafe/general-computers-wifi/"
-  },"4": {
+  },"6": {
     "doc": "Home",
     "title": "Home",
     "content": "## Feel Free to Explore This website has one purpose: to serve as a replacement for my job. I won't be available forever and seeing as there's a bit too much to compile into one paragraph or even several pages, this is the best alternative. ## How the documentation is to be used Since reading through documentation can be tedious and time-consuming, I will make scannable QR codes placed in front of each \"tech area\". If something goes wrong or someone simply wants to learn how to use something, that's what it's there for. ",
     "url": "/bc_tech_guide/",
     "relUrl": "/"
-  },"5": {
+  },"7": {
+    "doc": "GS Andiamo",
+    "title": "GS Andiamo",
+    "content": "# GS Andiamo The documentation for GS Andiamo management of equipment and resources. ",
+    "url": "/bc_tech_guide/docs/gsandiamo/",
+    "relUrl": "/docs/gsandiamo/"
+  },"8": {
     "doc": "BC Fitness Cafe",
     "title": "BC Fitness Cafe",
     "content": "# BC Fitness + Cafe All info pertaining the BC Fitness and Cafe portion of the business will be here. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/",
     "relUrl": "/docs/bc_fitness_cafe/"
-  },"6": {
-    "doc": "Mountain Bikes",
-    "title": "Mountain Bikes",
-    "content": "# Mountain Bikes Here you will find info about any components or frames that are mountain specific. ",
-    "url": "/bc_tech_guide/docs/gsandiamo/",
-    "relUrl": "/docs/gsandiamo/"
-  },"7": {
+  },"9": {
+    "doc": "Websites",
+    "title": "Websites",
+    "content": "# Websites If you want to work on the websites or if you just want info about them, this is the place to be. ",
+    "url": "/bc_tech_guide/docs/websites/",
+    "relUrl": "/docs/websites/"
+  },"10": {
     "doc": "IT Maintenance",
     "title": "IT Maintenance",
-    "content": "# IT Maintenance ## Chrome Remote Desktop ### Usage & Logins ",
+    "content": "# IT Maintenance ## Chrome Remote Desktop Chrome Remote Desktop is a great tool if you are in charge of IT, especially if you are not physically at BC Fitness. It's also fairly simple and easy to use, and if it's not already setup on one of the computers, it's very easy to get working. ### Usage & Logins Using the BC Fitness chrome account, login to chrome Remote Desktop [here](https://remotedesktop.google.com/access/). Once you're all logged in, you will also need the password to the machine to get in. For security reasons, however, this password will be provided on paper along with everything else in the logins & accounts handbook. Once you are connected to the computer, the process is fairly straightforward. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/it-maintenance/",
     "relUrl": "/docs/bc_fitness_cafe/it-maintenance/"
-  },"8": {
+  },"11": {
     "doc": "Other Tech",
     "title": "Other Tech",
     "content": "# Other Tech ## Ring Doorbell ### Login ## BC Server ### Logins ### Rules & Usage ## Security Cameras ### Login & Wiring ### FTP Server Setup ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/other-tech/",
     "relUrl": "/docs/bc_fitness_cafe/other-tech/"
-  },"9": {
+  },"12": {
     "doc": "Point of Sale",
     "title": "Point of Sale",
     "content": "# Point of Sale ## Square ## Mindbody ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/pos/",
     "relUrl": "/docs/bc_fitness_cafe/pos/"
-  },"10": {
-    "doc": "Saddles",
-    "title": "Saddles",
-    "content": "# Saddles ",
-    "url": "/bc_tech_guide/docs/gsandiamo/saddles/",
-    "relUrl": "/docs/gsandiamo/saddles/"
-  },"11": {
-    "doc": "Seat Posts",
-    "title": "Seat Posts",
-    "content": "# Seat Posts ",
-    "url": "/bc_tech_guide/docs/gsandiamo/seat_posts/",
-    "relUrl": "/docs/gsandiamo/seat_posts/"
-  },"12": {
+  },"13": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": "# Resources ## Photos ### How to Find Them ### How to Share Them ",
+    "url": "/bc_tech_guide/docs/gsandiamo/resources/",
+    "relUrl": "/docs/gsandiamo/resources/"
+  },"14": {
     "doc": "Social Media",
     "title": "Social Media",
     "content": "# Social Media ## Accounts and Logins ### Facebook ### Instagram #### BC Cafe #### BC Fitness ## Schedule ## Posting ## Resources ### Google Photos ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/social-media/",
     "relUrl": "/docs/bc_fitness_cafe/social-media/"
-  },"13": {
-    "doc": "Stems",
-    "title": "Stems",
-    "content": "# Stems |Make|Model|Weight|----|-----|------|stem|stem |stem |stem|stem |stem | ",
-    "url": "/bc_tech_guide/docs/gsandiamo/stems/",
-    "relUrl": "/docs/gsandiamo/stems/"
-  },"14": {
-    "doc": "Tires",
-    "title": "Tires",
-    "content": "# Tires ",
-    "url": "/bc_tech_guide/docs/gsandiamo/tires/",
-    "relUrl": "/docs/gsandiamo/tires/"
   },"15": {
     "doc": "Web Resources",
     "title": "Web Resources",
@@ -95,27 +95,15 @@
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/web-resources/",
     "relUrl": "/docs/bc_fitness_cafe/web-resources/"
   },"16": {
-    "doc": "Websites",
-    "title": "Websites",
-    "content": "# Websites ## bcfitness.com ### Login ## bcfitnesscafe.com ### Login ## bc.cafe ### Login ",
-    "url": "/bc_tech_guide/docs/bc_fitness_cafe/websites/",
-    "relUrl": "/docs/bc_fitness_cafe/websites/"
-  },"17": {
-    "doc": "Wheels",
-    "title": "Wheels",
-    "content": "# Wheels Here you can scour this page for wheels ",
-    "url": "/bc_tech_guide/docs/gsandiamo/wheels/",
-    "relUrl": "/docs/gsandiamo/wheels/"
-  },"18": {
     "doc": "Window Room",
     "title": "Window Room",
     "content": "# Window Room ## Audio ## Zoom ## Computer ## Projector ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/window-room/",
     "relUrl": "/docs/bc_fitness_cafe/window-room/"
-  },"19": {
+  },"17": {
     "doc": "Zwift Stations",
     "title": "Zwift Stations",
-    "content": "# Zwift Stations ## Computers & Logins ## ANT & Bluetooth ## Zwift Setup & Login ## KIKR Snap ### Snap Connection ## KIKR Bike ### Bike Connection ## Other Sensors ### Power Meters ### Cadence Meters ### Heartrate Monitors ### Speed Sensors ### Steering Modules ",
+    "content": "# Zwift Stations ## Computers, Apple TVs & Logins ### Apple TVs There are two Apple TVs of the four Zwift Stations. One Apple TV is on the far left station and the other is on the far right station. The two stations in the middle are going to be regular computers. #### The Remotes Each Apple TV has its own Apple TV remote which look like this: Each remote also has its own number that coordinates to the numbers placed on the bottom left of each TV. #### Turning on the Apple TV Since the Apple TVs will sometimes go into a *sleep mode*, you will likely need to click around on the remote to wake up the TV. Provided the TV itself is already on (there is no white light on at the bottom of the display), you should see something happen on the screen. If the TV is on and the remote isn't doing anything to wakeup the Apple TV, there are a few things that could be happening: 1. The remote is discharged - Plug it in 2. The TV is on the wrong input - Use the controls on the back the TV to change the input 3. The Apple TV is unplugged or the power strip is not turned on - Check the power strip and the connection for the Apple TV inside the Obelisk. ## ANT+ & Bluetooth ### ANT+ ANT+ works similarly to Bluetooth as a way to connect sensors except that it requires a dongle to operate. Because of this, ANT+ only works on the middle two stations as the Apple TVs do not have any port for the dongle. ANT+ should not be necessary for most of the newest sensors, but if you have an older sensor you are trying to connect it may only be ANT+ compatible. The sensor should also say somewhere on it if it it bluetooth and ANT+ compatible or only ANT+ compatible. ### Bluetooth Bluetooth should work automatically on every station, so if you are having issues connecting sensors your issue most likely has nothing to do with the bluetooth. ## Zwift Setup & Login ### Computers (Middle Stations) Each Zwift station already has Zwift pre-installed and the application should be easily accessible from the desktop. If Zwift *is not* already clearly on the desktop, then it should be accessible through the search bar or the applications menu. If you are unable to find the applications menu, please try harder. ## KIKR Snap *The most regular-looking KIKR trainers.* ### Snap Connection The same as any other sensor, except when connecting to Zwift select the \"controllable\" option. Since there are multiple KIKR trainers, make sure to select the trainer with the same ID that is taped atop of it as it is shown in Zwift. If none of the trainer IDs are the same as the one on your trainer, spin up only the trainer that you are using and you will be able to recognize it immediately as the one that is showing some sort of speed or power. ## KIKR Bike *The spaceship-looking fancy spin bike.* ### Bike Connection The same as any other sensor except when connecting to Zwift select the \"controllable\" option and make sure that you are connecting to the \"KIKR Bike\". This will automatically connect you to the bike and you should be all good to go. ## Other Sensors ### Power Meters ### Cadence Meters ### Heartrate Monitors ### Speed Sensors ### Steering Modules ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/zwift-stations/",
     "relUrl": "/docs/bc_fitness_cafe/zwift-stations/"
   }

@@ -1,8 +1,8 @@
 ---
-title: Mountain Bikes
+title: GS Andiamo
 layout: default
 nav_order: 3
 has_children: true
 ---
-# Mountain Bikes
-Here you will find info about any components or frames that are mountain specific.
+# GS Andiamo
+The documentation for GS Andiamo management of equipment and resources.
