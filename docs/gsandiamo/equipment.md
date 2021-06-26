@@ -8,7 +8,7 @@ parent: GS Andiamo
 ## Stands & Tools
 ## Asset Tiger
 ### Format of Input
-### Checking Items in & out
+### Checking Items In & out
 ## Wheels Placement
 ## Bikes Placement
 ## Work Tag System
