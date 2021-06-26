@@ -8,11 +8,11 @@ parent: BC Fitness Cafe
 ## Accounts
 *Passwords will be provided in the security & logins handbook.*
 ### Facebook
-#### [BikecoachFitnessStudio](https://www.facebook.com/BikecoachFitnessStudio)
+#### [BikecoachFitnessStudio](https://www.facebook.com/BikecoachFitnessStudio){: .btn}
 ### Instagram
-#### [bc.coffeeandtea](https://www.instagram.com/bc.coffeeandtea/)
-#### [bc.fitness_studio](https://www.instagram.com/bc.fitness_studio/)
-#### [bc.coachingandfitting](https://www.instagram.com/bc.coachingandfitting/)
+#### [bc.coffeeandtea](https://www.instagram.com/bc.coffeeandtea/){: .btn}
+#### [bc.fitness_studio](https://www.instagram.com/bc.fitness_studio/){: .btn}
+#### [bc.coachingandfitting](https://www.instagram.com/bc.coachingandfitting/){: .btn}
 ## Schedule
 Located under the square POS is a pretty beat-up but still functional social media posting schedule. That's the best we have for now, but that may change in the future.
 ## Posting
@@ -26,10 +26,10 @@ There are several Google Photos albums that you can also contribute to) that hav
 
 #### Links
 
-[Junior Bikewash](https://photos.google.com/share/AF1QipMp1ZroKErwOf7iW6rN3r14wAXCRwYdy7_QXrag80bwuN3Nl7TESy7M5uT_KGJBGA?key=MEJOVjdUQV93MWp5SE1aRF83b2NFSkdDQUtYTWNn)
+[Junior Bikewash](https://photos.google.com/share/AF1QipMp1ZroKErwOf7iW6rN3r14wAXCRwYdy7_QXrag80bwuN3Nl7TESy7M5uT_KGJBGA?key=MEJOVjdUQV93MWp5SE1aRF83b2NFSkdDQUtYTWNn){: .btn}
 
-[BC Cafe Instagram](https://photos.google.com/share/AF1QipNpQmH-pZafIDSw-ulbKAp1P5PoQQio2qvOLXH9GK6Pq3irzeD3EEA7ytrkqAaqAA?key=Q1VlbF9UQUVfYmF0VEVDZjRoRDdvR2J4QnJQZ2N3)
+[BC Cafe Instagram](https://photos.google.com/share/AF1QipNpQmH-pZafIDSw-ulbKAp1P5PoQQio2qvOLXH9GK6Pq3irzeD3EEA7ytrkqAaqAA?key=Q1VlbF9UQUVfYmF0VEVDZjRoRDdvR2J4QnJQZ2N3){: .btn}
 
-[BikeMek](https://photos.google.com/share/AF1QipPgvDLGwqiEncQLR3wp872C5dqIXxZEtrOJmARahEp-HlwPkoqcedX-Qd7Y2a-Fpg?key=bExBQlVseGVCbDVIczRDT2lJd1JMNnFUZzA2WmV3)
+[BikeMek](https://photos.google.com/share/AF1QipPgvDLGwqiEncQLR3wp872C5dqIXxZEtrOJmARahEp-HlwPkoqcedX-Qd7Y2a-Fpg?key=bExBQlVseGVCbDVIczRDT2lJd1JMNnFUZzA2WmV3){: .btn}
 
-[Cycling + BC Fitness Cafe](https://photos.google.com/share/AF1QipO3zhSqiMB_AbpjZ9suLhVi-jeWYoqX-F7qg2YP-o8tezOyA2cLWn1xoCjh19CJQ?key=LWZ5elp4RTlrSGptLW5rYkNRQ1ByTVJ5R2JDNllB)
+[Cycling + BC Fitness Cafe](https://photos.google.com/share/AF1QipO3zhSqiMB_AbpjZ9suLhVi-jeWYoqX-F7qg2YP-o8tezOyA2cLWn1xoCjh19CJQ?key=LWZ5elp4RTlrSGptLW5rYkNRQ1ByTVJ5R2JDNllB){: .btn}
