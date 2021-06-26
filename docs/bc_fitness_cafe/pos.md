@@ -5,9 +5,10 @@ nav_order: 6
 parent: BC Fitness Cafe
 ---
 # Point of Sale
-There are two POS stations each compatible with Square and Mindbody:
+There are two POS stations each compatible with both Square and Mindbody:
 1. In the Coffee Bar
 2. In the Mechanics Area
+
 ## Square
 There's a lot going on here, and since I don't want to be writing an entire manuscript trying to explain it to you, I will direct you [here](https://squareup.com/help/us/en) if you are having any issues.
 
