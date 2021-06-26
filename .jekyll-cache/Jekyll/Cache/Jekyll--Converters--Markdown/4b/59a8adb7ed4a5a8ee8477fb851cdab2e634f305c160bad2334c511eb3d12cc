@@ -1,4 +1,4 @@
-I"<h1 id="coffee-bar">Coffee Bar</h1>
+I"�<h1 id="coffee-bar">Coffee Bar</h1>
 <h2 id="apple-tv">Apple TV</h2>
 <p>The Apple TV is located in the cabinet just to the right of the computer. It’s small and black and sits atop of the Denon AVR. <em>You will likely never need to do anything with the actual Apple TV unit.</em></p>
 
@@ -22,4 +22,15 @@
 <h3 id="tv-audio">TV Audio</h3>
 <p>As we are normally playing audio from the Sonos (more about that later) to the <em>Spin Bikes</em> or the <em>Coffee Bar</em> speakers in the ceiling or mounted to the obelisks, <strong>you will almost never need to play audio from the TV unless you aren’t playing music and you want to hear what’s coming from what you are playing on the TV.</strong></p>
 <h2 id="audio--music">Audio &amp; Music</h2>
+<p>Unless you’re planning on messing with the configuration of the Audio, it’s fairly simple to play music.</p>
+
+<p>Follow these steps to play music from the <strong>Sonos</strong> through <strong>Spotify</strong></p>
+<ol>
+  <li>Login on the computer in the coffee bar.</li>
+  <li>Open the <strong>Sonos</strong> app which should be on the Dock</li>
+  <li>(Optional) On the left side of the window you just opened you should be able to select between the <strong>Coffee Bar</strong> and the <strong>Spin Bikes</strong>. This will determine where in the studio you want to play your music from. <em>Note: if you want to play audio from the speakers in the ceiling above the coffee bar, you will need to switch the input on the Denon off of the TV (cable-sat) and onto the “Aux” setting.</em></li>
+  <li>Click the play button at the top of the window to start playing whatever it was left on <strong>and/or</strong> select what you want to play on the right hand side of the window. <em>Make sure you go through Spotify, as this is the only service we have set up so far.</em></li>
+</ol>
+
+<h4 id="go-here-for-troubleshooting-info"><a href="/bc_tech_guide/docs/bc_fitness_cafe/it-maintenance/">Go here for Troubleshooting Info</a></h4>
 :ET
