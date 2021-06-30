@@ -28,3 +28,12 @@ Like everything else, the login information for the security cameras will be pro
 Since the security cameras require their proprietary NVR in order to record all the security footage, the Reolink NVR uses FTP to transfer files from its local hard drives to the security footage partition in the BC Synology Server.
 
 There is nothing you should need to do with the FTP connection unless it stops uploading from the Reolink NVR to the BC Server.
+
+## Router, Modem and Orbi Mesh
+We have one modem, two routers, and two satellites that extend the connection from the Orbi routers. One of the routers is a normal Orbi router while the other has the ability to do cellular connection in the event that the Spectrum WiFi service gives out. Only the regular router is connected at the moment.
+### Spectrum Account
+*Login provided on the BC Security Card*
+## Ethernet Cabling
+Don't worry about the ethernet cabling unless you really feel like ripping everything apart and spending countless hours on something that will result in only pain and suffering. 
+### Ethernet Switches
+At the moment, there are two ethernet switches that are used to route ethernet to many places at once. One of the switches is located in the store room and the other is located directly under the BC Server.

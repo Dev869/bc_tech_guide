@@ -11,53 +11,53 @@
     "url": "/bc_tech_guide/docs/gsandiamo/equipment/",
     "relUrl": "/docs/gsandiamo/equipment/"
   },"2": {
-    "doc": "General Computers & Wifi",
-    "title": "General Computers & Wifi",
-    "content": "# General Computers & Wifi ## Printer ## Wifi ## Router & Modem ### Spectrum Account ## Ethernet Cabling ### Port Switches ",
-    "url": "/bc_tech_guide/docs/bc_fitness_cafe/general-computers-wifi/",
-    "relUrl": "/docs/bc_fitness_cafe/general-computers-wifi/"
-  },"3": {
     "doc": "Home",
     "title": "Home",
     "content": "# BC Fitness + Cafe Tech Guide *The official BC Fitness + Cafe Documentation / instruction manual* ## Feel Free to Explore This website has one purpose: to serve as a replacement for my job. I won't be available forever and seeing as there's a bit too much to compile into one paragraph or even several pages, this is the best alternative. ## How the documentation is to be used Since reading through documentation can be tedious and time-consuming, I will make scannable QR codes placed in front of each \"tech area\". If something goes wrong or someone simply wants to learn how to use something, that's what it's there for. ",
     "url": "/bc_tech_guide/",
     "relUrl": "/"
-  },"4": {
+  },"3": {
     "doc": "GS Andiamo",
     "title": "GS Andiamo",
     "content": "# GS Andiamo The documentation for GS Andiamo management of equipment and resources. ",
     "url": "/bc_tech_guide/docs/gsandiamo/",
     "relUrl": "/docs/gsandiamo/"
-  },"5": {
+  },"4": {
     "doc": "Websites",
     "title": "Websites",
     "content": "# Websites If you want to work on the websites or if you just want info about them, this is the place to be. **Logins** for the websites are in the security & logins handbook. **Godaddy** is also a very important tool that we use for hosting cPanel as well as the domains themselves. The login for Godaddy is also provided in the security & logins handbook. #### BC Fitness + Cafe Websites [bcfitnesscafe.com](https://bcfitnesscafe.com/){: .btn} [bcfitness.studio](https://bcfitness.studio/){: .btn} [bikecoach.com](https://bikecoach.com/){: .btn} [bc.cafe](https://www.bc.cafe/){: .btn} #### Non-Profit & Club Websites [gsandiamo.com](https://gsandiamo.com/){: .btn} [ycacycling.com](https://ycacycling.com/){: .btn} [bikemek.com](https://bikemek.com/){: .btn} ",
     "url": "/bc_tech_guide/docs/websites/",
     "relUrl": "/docs/websites/"
-  },"6": {
+  },"5": {
     "doc": "BC Fitness Cafe",
     "title": "BC Fitness Cafe",
     "content": "# BC Fitness + Cafe All info pertaining the BC Fitness and Cafe portion of the business will be here. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/",
     "relUrl": "/docs/bc_fitness_cafe/"
-  },"7": {
+  },"6": {
     "doc": "IT Maintenance",
     "title": "IT Maintenance",
-    "content": "# IT Maintenance ## Chrome Remote Desktop Chrome Remote Desktop is a great tool if you are in charge of IT, especially if you are not physically at BC Fitness. It's also fairly simple and easy to use, and if it's not already setup on one of the computers, it's very easy to get working. ### Usage & Logins Using the BC Fitness chrome account, login to chrome Remote Desktop [here](https://remotedesktop.google.com/access/). Once you're all logged in, you will also need the password to the machine to get in. For security reasons, however, this password will be provided on paper along with everything else in the security & logins handbook. Once you are connected to the computer, the process is fairly straightforward. ## BC Server Go [here](https://bcfitnesscafe.synology.me:42069/) to access the server from anywhere in the world. The BC Server is a rack Synology server with upwards of 48TB of storage. As such, the server has quite a bit of storage allocated to security footage, but also some storage allocated to usage by the BC Fitness + Cafe Staff. ### Logins Since not very many people use the Synology server, logins have not yet been distributed. However, they will be put into the security & logins handbook once that has been created. ### Rules & Usage Each user will be provided a certain amount of storage which will be determined at a later date. In terms of rules, just be responsible and don't use the server as a replacement for Google Drive or some sort of storage for all of your GoPro video. The server is really meant for sharing data between co-workers, which includes anything related to BC Fitness + Cafe *and/or* GS Andiamo / Team California. ## Security Cameras There are 8 security cameras inside BC Fitness + Cafe and 1 security camera facing the parking lot. For security reasons, this info will be kept in the security & logins handbook. In addition, the location of the Reolink NVR (where the cameras are powered, wired, and recorded from) will also be kept in the security & logins handbook. ### Login & Wiring Like everything else, the login information for the security cameras will be provided in the security & logins handbook. ### FTP Setup Since the security cameras require their proprietary NVR in order to record all the security footage, the Reolink NVR uses FTP to transfer files from its local hard drives to the security footage partition in the BC Synology Server. There is nothing you should need to do with the FTP connection unless it stops uploading from the Reolink NVR to the BC Server. ",
+    "content": "# IT Maintenance ## Chrome Remote Desktop Chrome Remote Desktop is a great tool if you are in charge of IT, especially if you are not physically at BC Fitness. It's also fairly simple and easy to use, and if it's not already setup on one of the computers, it's very easy to get working. ### Usage & Logins Using the BC Fitness chrome account, login to chrome Remote Desktop [here](https://remotedesktop.google.com/access/). Once you're all logged in, you will also need the password to the machine to get in. For security reasons, however, this password will be provided on paper along with everything else in the security & logins handbook. Once you are connected to the computer, the process is fairly straightforward. ## BC Server Go [here](https://bcfitnesscafe.synology.me:42069/) to access the server from anywhere in the world. The BC Server is a rack Synology server with upwards of 48TB of storage. As such, the server has quite a bit of storage allocated to security footage, but also some storage allocated to usage by the BC Fitness + Cafe Staff. ### Logins Since not very many people use the Synology server, logins have not yet been distributed. However, they will be put into the security & logins handbook once that has been created. ### Rules & Usage Each user will be provided a certain amount of storage which will be determined at a later date. In terms of rules, just be responsible and don't use the server as a replacement for Google Drive or some sort of storage for all of your GoPro video. The server is really meant for sharing data between co-workers, which includes anything related to BC Fitness + Cafe *and/or* GS Andiamo / Team California. ## Security Cameras There are 8 security cameras inside BC Fitness + Cafe and 1 security camera facing the parking lot. For security reasons, this info will be kept in the security & logins handbook. In addition, the location of the Reolink NVR (where the cameras are powered, wired, and recorded from) will also be kept in the security & logins handbook. ### Login & Wiring Like everything else, the login information for the security cameras will be provided in the security & logins handbook. ### FTP Setup Since the security cameras require their proprietary NVR in order to record all the security footage, the Reolink NVR uses FTP to transfer files from its local hard drives to the security footage partition in the BC Synology Server. There is nothing you should need to do with the FTP connection unless it stops uploading from the Reolink NVR to the BC Server. ## Router, Modem and Orbi Mesh We have one modem, two routers, and two satellites that extend the connection from the Orbi routers. One of the routers is a normal Orbi router while the other has the ability to do cellular connection in the event that the Spectrum WiFi service gives out. Only the regular router is connected at the moment. ### Spectrum Account *Login provided on the BC Security Card* ## Ethernet Cabling Don't worry about the ethernet cabling unless you really feel like ripping everything apart and spending countless hours on something that will result in only pain and suffering. ### Ethernet Switches At the moment, there are two ethernet switches that are used to route ethernet to many places at once. One of the switches is located in the store room and the other is located directly under the BC Server. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/it-maintenance/",
     "relUrl": "/docs/bc_fitness_cafe/it-maintenance/"
-  },"8": {
+  },"7": {
     "doc": "Other Tech",
     "title": "Other Tech",
     "content": "# Other Tech ## Ring Doorbell ### Location The ring doorbell is located to the left side of the the glass double doors at the main entrance of BC Fitness + Cafe. There is also a ring doorbell *chime* module which is located inside of BC Fitness + Cafe. It makes a sound whenever someone walks by, so it's not too hard to find. ### Login Only people who *need* access to the Ring Doorbell should be logged into the app. For security reasons, the login for the account is also in the security & logins handbook. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/other-tech/",
     "relUrl": "/docs/bc_fitness_cafe/other-tech/"
-  },"9": {
+  },"8": {
     "doc": "Point of Sale",
     "title": "Point of Sale",
     "content": "# Point of Sale There are two POS stations each compatible with both Square and Mindbody: 1. In the Coffee Bar 2. In the Mechanics Area ## Square There's a lot going on here, and since I don't want to be writing an entire manuscript trying to explain it to you, I will direct you [here](https://squareup.com/help/us/en) if you are having any issues. For basic usage of the POS system, it's fairly self-explanatory. ## Mindbody There's even more going on here than Square, so I will also direct you [here](https://support.mindbodyonline.com/s/?language=en_US). Have fun with Mindbody, it'll be a nice challenge. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/pos/",
     "relUrl": "/docs/bc_fitness_cafe/pos/"
+  },"9": {
+    "doc": "Printer & Wifi",
+    "title": "Printer & Wifi",
+    "content": "# Printer & Wifi ## Printer To use the printer, go through whatever printing prompt and make sure you select the **HP Color LaserJet MFP M477fdn** printer for the printing destination. ## Wifi There are two Wifi networks: 1. BikecoachSecure - Password in BC Security Card 2. BCFitnessCafe - Password: bcfitnesscafe BikecoachSecure is meant for *staff only* and it is also the faster network. BCFitnessCafe, on the other hand, is a slower network that is meant for guests, customers, or clients. ",
+    "url": "/bc_tech_guide/docs/bc_fitness_cafe/printer-wifi/",
+    "relUrl": "/docs/bc_fitness_cafe/printer-wifi/"
   },"10": {
     "doc": "Resources",
     "title": "Resources",
@@ -79,7 +79,7 @@
   },"13": {
     "doc": "Window Room",
     "title": "Window Room",
-    "content": "# Window Room ## Audio ## Zoom ## Computer ## Projector ",
+    "content": "# Window Room *This diagram may help a bit...* ## Audio To play audio through to the Zoom recipients as well as to yourself through the speaker, all you need to do is use the iPad or use the aux cord with your own device. **There should be no need to adjust or modify anything else.** ## Zoom Since the setup automatically passes through the audio directly to the Zoom recipients, there is no need to do adjust any settings in the zoom to play audio through it. To use the Zoom in general, however, there are two accounts that BC Fitness uses. The two accounts are provided on the BC Security Card, though you should not need to login to the account unless the computer was shut down or the power went out. For help with anything Zoom, go [here](https://support.zoom.us/hc/en-us). ## Projector As the projector is not yet setup, this info is not yet available. ",
     "url": "/bc_tech_guide/docs/bc_fitness_cafe/window-room/",
     "relUrl": "/docs/bc_fitness_cafe/window-room/"
   },"14": {
