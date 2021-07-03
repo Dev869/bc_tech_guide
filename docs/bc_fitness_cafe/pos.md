@@ -14,6 +14,8 @@ There's a lot going on here, and since I don't want to be writing an entire manu
 
 For basic usage of the POS system, it's fairly self-explanatory.
 ## Mindbody
+*Each staff member should have their own account, but if you use the BC Fitness chrome account you should be able to just log in.*
+
 There's even more going on here than Square, so I will also direct you [here](https://support.mindbodyonline.com/s/?language=en_US).
 
 Have fun with Mindbody, it'll be a nice challenge.

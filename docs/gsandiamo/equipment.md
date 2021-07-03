@@ -59,3 +59,9 @@ At the moment we have too many wheels to be picky about where they go. Guess thi
 ## Bikes Placement
 At the moment we have too many bikes to be picky about where they go. Guess this is a free for all.
 ## Work Tag System
+Whenever someone comes in with something that needs to be worked on (such as a bike that needs adjustment, a crank replacement, etc.) we **write up a work tag.** If you're not sure what the work tags look like, there's a *work tag board* just to the right of the double doors that go to the back storage room behind the mechanics area.
+
+
+Fill out the tag to the best of your ability. It's alright if you're not sure what to do as long as you do the following:
+1. Write down the **name and phone number** of whoever owns the equipment that needs to be worked on.
+2. Write down the issue that the equipment is having.
