@@ -62,7 +62,7 @@ plugins:
 # include: ["docs/tests/"]
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/images/bc_inverse.png"
+#logo: "/images/bc_inverse.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -95,7 +95,7 @@ search:
 heading_anchors: true
 
 # Makes Aux links open in a new tab. Default is false
-aux_links_new_tab: false
+aux_links_new_tab: true
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
