@@ -10,7 +10,7 @@ To use the printer, go through whatever printing prompt and make sure you select
 ## Wifi
 There are two Wifi networks:
 1. BikecoachSecure
-	- Password in BC Security  Card
+	- Password in secure Google Doc
 2. BCFitnessCafe
    - Password: bcfitnesscafe
 

@@ -7,9 +7,9 @@ has_children: false
 # Websites
 If you want to work on the websites or if you just want info about them, this is the place to be.
 
-**Logins** for the websites are in the BC Security Card.
+**Logins** for the websites are in the secure Google Doc.
 
-**Godaddy** is also a very important tool that we use for hosting cPanel as well as the domains themselves. The login for Godaddy is also provided in the BC Security Card.
+**Godaddy** is also a very important tool that we use for hosting cPanel as well as the domains themselves. The login for GoDaddy is also provided in the secure Google Doc.
 
 #### BC Fitness + Cafe Websites
 [bcfitnesscafe.com](https://bcfitnesscafe.com/){: .btn}

@@ -6,7 +6,7 @@ parent: BC Fitness Cafe
 ---
 # Social Media
 ## Accounts
-*You may access all the accounts through the business phone's instagram.*
+*You may access all the accounts through the business phone's instagram. All social logins that you may not be able to access will also be in the secure Google Doc*
 ### Facebook
 #### [BikecoachFitnessStudio](https://www.facebook.com/BikecoachFitnessStudio){: .btn}
 ### Instagram

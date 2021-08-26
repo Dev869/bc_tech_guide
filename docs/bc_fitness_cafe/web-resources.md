@@ -8,7 +8,7 @@ parent: BC Fitness Cafe
 ## BC Chrome Account
 bcfitnesscafe@gmail.com
 
-For everyone's convenience, I have created a Google Chrome Account for BC Fitness + Cafe. This allows for a seamless syncing of bookmarks, logins, and Google Drive data across all the computers in BC. The login for the google chrome account is along with all the other accounts in the BC Security Card.
+For everyone's convenience, I have created a Google Chrome Account for BC Fitness + Cafe. This allows for a seamless syncing of bookmarks, logins, and Google Drive data across all the computers in BC. The login for the google chrome account is along with all the other accounts in the secure Google Doc.
 
 **The Google Chrome account is accessible by opening up on the Chrome browser and logging into the account if you are not already logged in. The login for this account is also provided to you the security card.**
 ### Bookmarks

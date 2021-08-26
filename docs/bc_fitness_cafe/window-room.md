@@ -12,7 +12,7 @@ To play audio through to the Zoom recipients as well as to yourself through the 
 ## Zoom
 Since the setup automatically passes through the audio directly to the Zoom recipients, there is no need to do adjust any settings in the zoom to play audio through it.
 
-To use the Zoom in general, however, there are two accounts that BC Fitness uses. The two accounts are provided on the BC Security Card, though you should not need to login to the account unless the computer was shut down or the power went out.
+To use the Zoom in general, however, there are two accounts that BC Fitness uses. The two accounts are provided on the secure Google Doc, though you should not need to login to the account unless the computer was shut down or the power went out.
 
 For help with anything Zoom, go [here](https://support.zoom.us/hc/en-us).
 ## Projector

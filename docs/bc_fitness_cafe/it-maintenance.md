@@ -17,13 +17,13 @@ Go [here](https://bcfitnesscafe.synology.me:42069/) to access the server from an
 
 The BC Server is a rack Synology server with upwards of 48TB of storage. As such, the server has quite a bit of storage allocated to security footage, but also some storage allocated to usage by the BC Fitness + Cafe Staff.
 ### Logins
-Since not very many people use the Synology server, logins have not yet been distributed. However, they will be put into the BC Security Card once that has been created.
+Since not very many people use the Synology server, logins have not yet been distributed. However, they will be put into the secure Google Doc.
 ### Rules & Usage
 Each user will be provided a certain amount of storage which will be determined at a later date. In terms of rules, just be responsible and don't use the server as a replacement for Google Drive or some sort of storage for all of your GoPro video. The server is really meant for sharing data between co-workers, which includes anything related to BC Fitness + Cafe *and/or* GS Andiamo / Team California.
 ## Security Cameras
-There are 8 security cameras inside BC Fitness + Cafe and 1 security camera facing the parking lot. For security reasons, this info will be kept in the BC Security Card. In addition, the location of the Reolink NVR (where the cameras are powered, wired, and recorded from) will also be kept in the security card.
+There are 8 security cameras inside BC Fitness + Cafe and 1 security camera facing the parking lot. For security reasons, this info will be kept in the secure Google Doc. In addition, the location of the Reolink NVR (where the cameras are powered, wired, and recorded from) will also be kept in the secure Google Doc.
 ### Login & Wiring
-Like everything else, the login information for the security cameras will be provided in the security card.
+Like everything else, the login information for the security cameras will be provided in the secure Google Doc.
 ### FTP Setup
 Since the security cameras require their proprietary NVR in order to record all the security footage, the Reolink NVR uses FTP to transfer files from its local hard drives to the security footage partition in the BC Synology Server.
 
