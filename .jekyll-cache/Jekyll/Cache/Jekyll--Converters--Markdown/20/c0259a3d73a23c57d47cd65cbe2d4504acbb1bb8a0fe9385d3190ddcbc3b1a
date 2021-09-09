@@ -1,0 +1,22 @@
+I"�<h1 id="zoom-station-front">Zoom Station (Front)</h1>
+<p>The Zoom station at the mats is a lot more simple than the one set up in the Window Room. While it does not have the more <em>fancy</em> mic and camera setup, you <strong>will need to turn on the TV in order to get it running</strong>. There should be remote sitting on one of the shelves.</p>
+
+<h2 id="setup-steps">Setup Steps</h2>
+<ol>
+  <li>Login to the computer <em>the login should be on a little card taped to the system.</em></li>
+  <li>Open up Zoom and login. <em>The Zoom logins are in the BC Fitness secure Google Doc.</em></li>
+  <li>You’re all set for your class!</li>
+</ol>
+
+<h4 id="troubleshooting">Troubleshooting</h4>
+<ul>
+  <li><strong>If only the camera on the computer is working,</strong> this is likely an issue with the <strong>Mevo</strong> (the camera sitting above the TV).
+    <ul>
+      <li><strong>Fix 1:</strong> Make sure the camera turned on. If there is no glowing light on the front of the Mevo, it’s off. To turn it on, press and hold the button on the back of the camera.</li>
+      <li><strong>Fix 2:</strong> Make sure the USB cable is properly inserted into the ports sitting snug in the camera and the computer.</li>
+      <li><strong>Fix 3:</strong> <em>This one is a bit more complex.</em> The issue could require a firmware update. To update the camera, open the <strong>Mevo</strong> app on the <strong>Business phone.</strong> It should automatically recognize the camera as the “Mat Mevo”. Then, it should prompt you for a firmware update. Agree to whatever terms and install it. This may take a few minutes.</li>
+      <li><strong>If none of the above fixes work, try shutting the camera off and turning it back on again.</strong></li>
+    </ul>
+  </li>
+</ul>
+:ET

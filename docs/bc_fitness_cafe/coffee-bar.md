@@ -21,14 +21,30 @@ The Apple TV is located in the cabinet just to the right of the computer. It's s
 
 #### [How to do Airplay](https://support.apple.com/guide/mac-help/stream-content-to-apple-tv-mh40624/mac){: .btn}
 ### TV Audio
+*See "Method 2 - Coffee Bar Speakers" below to see when you'd need to play music from the Apple TV.*
+<br><br>
 As we are normally playing audio from the Sonos (more about that later) to the *Spin Bikes* or the *Coffee Bar* speakers in the ceiling or mounted to the obelisks, **you will almost never need to play audio from the TV unless you aren't playing music and you want to hear what's coming from what you are playing on the TV.**
 ## Audio & Music
 Unless you're planning on messing with the configuration of the Audio, it's fairly simple to play music.
 
-Follow these steps to play music from the **Sonos** through **Spotify**
+### Method 1 - Zwift Station Area
+
+Follow these steps to play music from the **Sonos** through **Spotify**. 
+<br><br>
+Note: *this will only play music through the speakers above the Zwift Stations*.
 1. Login on the computer in the coffee bar.
 2. Open the **Sonos** app which should be on the Dock
 3. (Optional) On the left side of the window you just opened you should be able to select between the **Coffee Bar** and the **Spin Bikes**. This will determine where in the studio you want to play your music from. *Note: if you want to play audio from the speakers in the ceiling above the coffee bar, you will need to switch the input on the Denon off of the TV (cable-sat) and onto the "Aux" setting.*
 4. Click the play button at the top of the window to start playing whatever it was left on **and/or** select what you want to play on the right hand side of the window. *Make sure you go through Spotify, as this is the only service we have set up so far.*
 
+### Method 2 - Coffee Bar Speakers
+Follow these steps to play music through the **Apple TV** using **Spotify**.
+
+Note: *This will play music only through the ceiling speakers above the Coffee Bar and seating area.* 
+
+1. Login to the computer in the coffee bar.
+2. Open Spotify on the computer.
+2. Turn on the Apple TV and   open the Spotify Application. *This can be done by pressing the "menu" button to get to the Home Screen and scrolling with the trackpad to open the Spotify app*.
+3. On the computer, make sure Spotify says "playing from Coffee Bar  TV" on the bottom right.  When it's working properly, there should be a green bar at the bottom of the Spotify window. If there is no green bar, you can select the output device   (to set it to the Coffee Bar TV) by clicking on the Speaker icon just to the left of the volume adjuster within Spotify.
+3. Select your music on the computer and click play. *Note: when switching from the Sonos to Spotify through the Coffee Bar TV, this may come with a bit of a delay.*
 #### [Go here for Troubleshooting Info]({{site.baseurl}}/docs/bc_fitness_cafe/it-maintenance/)
